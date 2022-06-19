@@ -19,5 +19,23 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	]
+	],
+	"Motions":{
+		"Idle":[
+			{
+				"File":"motions/eyemove.motion3.json"
+			},
+			{
+				"File": "motions/r1.motion3.json"
+			},
+			{
+				"File": "motions/r2.motion3.json"
+			}				
+		],
+		"Tapbody":[
+			{
+			  "File": "motions/speak.motion3.json"
+			}
+		  ]
+	}
 }
