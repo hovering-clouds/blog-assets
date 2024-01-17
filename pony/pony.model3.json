@@ -6,7 +6,37 @@
 			"pony.2048/texture_00.png"
 		],
 		"Physics": "pony.physics3.json",
-		"DisplayInfo": "pony.cdi3.json"
+		"DisplayInfo": "pony.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "ku",
+				"File": "expressions/ku.exp3.json"
+			},
+			{
+				"Name": "jingya",
+				"File": "expressions/jingya.exp3.json"
+			},
+			{
+				"Name": "hua",
+				"File": "expressions/hua.exp3.json"
+			},
+			{
+				"Name": "yihuo",
+				"File": "expressions/yihuo.exp3.json"
+			},
+			{
+				"Name": "sq",
+				"File": "expressions/sq.exp3.json"
+			},
+			{
+				"Name": "makeface",
+				"File": "expressions/makeface.exp3.json"
+			},
+			{
+				"Name": "happy",
+				"File": "expressions/happy.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{
@@ -22,5 +52,6 @@
 				"ParamEyeROpen"
 			]
 		}
-	]
+	],
+	"HitAreas": []
 }
